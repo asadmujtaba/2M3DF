@@ -36,10 +36,10 @@ After downloading, move the dataset to the `data` folder.
 To run the preprocessing for background removal and resizing, run the following command:
 
 ```bash
-python preprocess/preprocessing_mvtec3d.py
+python data_preprocess/preprocessing_mvtec3d.py
 ```
 ```bash
-python preprocess/preprocessing_eyecandies.py
+python data_preprocess/preprocessing_eyecandies.py
 ```
 
 ## RUN Model
