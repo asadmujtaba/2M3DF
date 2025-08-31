@@ -41,6 +41,10 @@ python data_preprocess/preprocessing_mvtec3d.py
 ```bash
 python data_preprocess/preprocessing_eyecandies.py
 ```
+To generate multiview RGB images dataset, run the following command:
+```bash
+python data_preprocess/RGB_multiview_images.py
+```
 
 ## RUN Model
 
