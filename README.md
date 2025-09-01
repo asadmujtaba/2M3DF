@@ -48,15 +48,10 @@ python data_preprocess/RGB_multiview_images.py
 
 ## RUN Model
 
-For **RGB Only model**:
 ```bash
-bash run_RgbOModel.sh
+ython twom3df_main
 ```
 
-For **3DMMFN model**:
-```bash
-bash run_3dmmfn.sh
-```
 
 ## Citation
 
