@@ -1,7 +1,7 @@
 # 2M3DF
 ## Introduction
 
-This repository contains the official source **2M3DF: Advancing 3D Industrial Defect Detection with Multi Perspective Multimodal Fusion Network**.
+This repository contains the official source **Advanсing 3D Industrial Dеfeсt Dеtесtiоn with Multi реrsреctive Multimodal Fusiоn Nеtwоrk**.
 
 ## Requirement
 
